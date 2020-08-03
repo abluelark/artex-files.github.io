@@ -15,8 +15,8 @@ const Config = {
                 ["infinite campus - attendance and grades", "https://ic.pvschools.net/"],
                 ["google classroom - virtual learning platform", "https://www.classroom.google.com"],
                 ["gmail", "https://www.mail.google.com"],
-                ["google meet - virtual meetings", "https://wwww.meet.google.com"]
-                ["evernote - lesson planning and notes", "https://www.evernote.com/"],
+                ["google meet - virtual meetings", "https://wwww.meet.google.com"],
+                ["evernote - lesson planning and notes", "https://www.evernote.com/"]
             ]
         ],
         [
