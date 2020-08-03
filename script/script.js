@@ -1,33 +1,35 @@
 const Config = {
-    name: "user",
+    name: "clark",
     scale: 1,
     Links: [
         [
-            "site",
+            "shared drives",
+            [
+                ["pvusd instrumental music", "https://drive.google.com/drive/folders/0AFYl8OE5jOc4Uk9PVA"],
+                ["gtv", "https://drive.google.com/drive/folders/0AN5IvmkSfh89Uk9PVA"]
+            ]
+        ],
+        [
+            "daily sites",
+            [
+                ["infinite campus - attendance and grades", "https://ic.pvschools.net/"],
+                ["google classroom - virtual learning platform", "https://www.classroom.google.com"],
+                ["gmail", "https://www.mail.google.com"],
+                ["google meet - virtual meetings", "https://wwww.meet.google.com"]
+                ["evernote - lesson planning and notes", "https://www.evernote.com/"],
+            ]
+        ],
+        [
+            "planning",
             [
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"]
             ]
         ],
         [
-            "site",
+            "greenway",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
-        ],
-        [
-            "site",
-            [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
-            ]
-        ],
-        [
-            "site",
-            [
-                ["link", "https://www.example.com"],
+                ["minor behavior form", "https://docs.google.com/forms/d/1GFrl_qV0JUPh4A3lUid9RkRvvH2DIOGp2rP9P7s2L9g/viewform?ts=5f20f778&edit_requested=true"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"]
