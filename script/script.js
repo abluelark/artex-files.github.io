@@ -30,7 +30,7 @@ const Config = {
             "greenway",
             [
                 ["minor behavior form", "https://docs.google.com/forms/d/1GFrl_qV0JUPh4A3lUid9RkRvvH2DIOGp2rP9P7s2L9g/viewform?ts=5f20f778&edit_requested=true"],
-                ["link", "https://www.example.com"],
+                ["staff directory", "https://docs.google.com/spreadsheets/d/1u6mBfl6CDg--tE_8vJ1dQ323XNTYv560U10PEaW6Dcw/edit?ts=5f285432#gid=0"],
                 ["link", "https://www.example.com"],
                 ["link", "https://www.example.com"]
             ]
